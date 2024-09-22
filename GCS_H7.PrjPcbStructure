@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Ethernet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Peripheral.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=IcantFindFileName.SchDoc|SheetNumber=5
